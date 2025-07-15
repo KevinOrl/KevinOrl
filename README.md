@@ -1,11 +1,13 @@
 ### About me
-## Hi there 👋
 
 I'm Kevin Núñez Camacho, a passionate full-stack developer from Costa Rica. I am currently studying at Instituto Tecnológico de Costa Rica.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Kevin%20N%C3%BA%C3%B1ez%20Camacho-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kevin-n%C3%BA%C3%B1ez-camacho-bb3b3431b/)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-kevinnc0506@gmail.com-red?style=flat-square&logo=gmail)](mailto:kevinnc0506@gmail.com)
+
 [![GitHub Badge](https://img.shields.io/badge/GitHub-KevinOrl-black?style=flat-square&logo=github)](https://github.com/KevinOrl)
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@KevinNe17851535-1da1f2?style=flat-square&logo=twitter)](https://x.com/KevinNe17851535)
 
 - 🔭 I’m currently working on exciting web and software projects.
