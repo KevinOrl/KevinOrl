@@ -48,6 +48,7 @@ I'm Kevin Núñez Camacho, a passionate full-stack developer from Costa Rica. I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="30" height="30" alt="Grafana"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="30" height="30" alt="Prometheus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="30" height="30" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub"/>
 </p>
 
 ### Github Stats
