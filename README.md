@@ -10,15 +10,15 @@ I'm Kevin Núñez Camacho, a passionate full-stack developer from Costa Rica. I 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@KevinNe17851535-1da1f2?style=flat-square&logo=twitter)](https://x.com/KevinNe17851535)
 
-- 🔭 I’m currently working on exciting web and software projects.
-- 🌱 I’m currently learning advanced JavaScript, TypeScript, cloud technologies, and continuously learning Python.
-- 👯 I’m looking to collaborate on open source and innovative tech solutions.
-- 💬 Ask me about web development, backend tech, or databases!
-- ⚡ Fun fact: I love solving puzzles
-- 🗄️ I am passionate about databases and data modeling. I have experience working with SQL databases like MariaDB and SQL Server, NoSQL databases such as MongoDB and Elasticsearch, and message brokers like RabbitMQ for database communication.
-- 📊 I have also worked with monitoring tools such as Prometheus and Grafana.
-- ☁️ I have experience working with AWS and Google services like Firebase.
-- 📱 I have developed mobile applications for Android using Java and Kotlin.
+- I’m currently working on exciting web and software projects.
+- I’m currently learning advanced JavaScript, TypeScript, cloud technologies, and continuously learning Python.
+- I’m looking to collaborate on open source and innovative tech solutions.
+- Ask me about web development, backend tech, or databases!
+- Fun fact: I love solving puzzles
+- I am passionate about databases and data modeling. I have experience working with SQL databases like MariaDB and SQL Server, NoSQL databases such as MongoDB and Elasticsearch, and message brokers like RabbitMQ for database communication.
+- I have also worked with monitoring tools such as Prometheus and Grafana.
+- I have experience working with AWS and Google services like Firebase.
+- I have developed mobile applications for Android using Java and Kotlin.
 
 ### Technologies & Languages
 
