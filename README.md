@@ -56,4 +56,3 @@ I'm Kevin Núñez Camacho, a passionate full-stack developer from Costa Rica. I 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KevinOrl&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinOrl&layout=compact)
